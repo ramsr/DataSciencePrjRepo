@@ -1,4 +1,4 @@
 DataSciencePrjRepo
 ==================
 
-DataScience Project
+DataScience Project for CoursEra.
